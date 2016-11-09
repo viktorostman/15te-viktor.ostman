@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(104): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.cpp(109): warning C4715: 'rpsbot': not all control paths return a value
+  ConsoleApplication1.vcxproj -> D:\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Debug\alltiett.exe
+  ConsoleApplication1.vcxproj -> D:\Documents\Visual Studio 2015\Projects\ConsoleApplication1\Debug\alltiett.pdb (Full PDB)
